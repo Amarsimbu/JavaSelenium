@@ -18,5 +18,8 @@ public class TestingGIT {
 		} else {
             System.out.println("Given num is nonPrime number");
 		}
+		
+		System.out.println("Print the prime number");
+		System.out.println("Print the non prime number");
 	}
 }
