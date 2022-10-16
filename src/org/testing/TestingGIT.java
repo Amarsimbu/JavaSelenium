@@ -21,5 +21,9 @@ public class TestingGIT {
 		
 		System.out.println("Print the prime number");
 		System.out.println("Print the non prime number");
+		
+		System.out.println("Prime number is 2 3 5 7 ");
+		System.out.println("Non Prime number is 4 6 8 10");
+
 	}
 }
